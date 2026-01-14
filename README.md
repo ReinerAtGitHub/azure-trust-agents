@@ -15,7 +15,6 @@ By participating in this hackathon, you will learn how to:
 - **Master Microsoft Agent Framework** using the new enterprise-grade SDK for building, orchestrating, and deploying sophisticated AI agents with sequential workflows and multi-agent systems.
 - **Build Specialized Compliance Agents** (Customer Data, Risk Analyzer, Compliance Reporter) with advanced prompt engineering, tool integration, and persistent memory capabilities.
 - **Implement MCP Integration** using Model Context Protocol (MCP) servers to connect agents with external compliance systems, alert mechanisms, and enterprise tools seamlessly.
-- **Deploy Agent-to-Agent Communication** leveraging A2A protocols for advanced multi-agent interactions and distributed compliance workflows.
 - **Apply Enterprise Observability** using OpenTelemetry monitoring, Azure AI Foundry tracking, and comprehensive system observability for production-ready agent systems.
 - **Build Production-Ready Frontend** by deploying and integrating an Angular-based fraud alert management interface with real-time dashboards, alert management, and comprehensive analytics visualization.
 
